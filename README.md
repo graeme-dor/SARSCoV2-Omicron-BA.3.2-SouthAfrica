@@ -1,7 +1,7 @@
 # SARSCoV2-Omicron-BA.3.2-SouthAfrica
 Identification and genomic characterisation of BA.3.2: a highly divergent BA.3-related SARS-CoV-2 lineage from southern Africa
 
-## Overview
+## Abstract
 
 In November 2024, a highly divergent BA.3-related SARS-CoV-2 lineage, designated **BA.3.2**, was detected in South Africa, marking the first appearance of a BA.3-derived lineage in over two years. Phylogenetic reconstruction places BA.3.2 on an extended branch descending from ancestral BA.3, with no intermediate genomes detected, consistent with a prolonged period of unsampled or isolated evolution. Molecular clock analyses indicate accelerated divergence characteristic of a saltation event, while phylogeographic and demographic analyses point to a southern African origin followed by multiple independent exportations and evidence of renewed transmission.
 
